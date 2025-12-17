@@ -1,8 +1,7 @@
 # data-learning-lab-cr
 My learning path in Python and SQL fundamentals, data analysis, and data science concepts - covering core programming, data manipulation, querying, and analytical workflows.
 
-
-# Data Science and Python Practice
+## Data Science and Python Practice
 
 This repository contains **Python exercises and practice programs**, including introductory **Data Science** topics. 
 It documents my learning journey in programming and data analysis.
@@ -10,7 +9,7 @@ It documents my learning journey in programming and data analysis.
 The focus is on building strong foundations in Python while progressively incorporating **data-oriented analysis** through practical, hands-on exercises.
 
 
-## Purpose
+### Purpose
 
 The purpose of this repository is to:
 * Build solid foundations in Python
@@ -19,25 +18,40 @@ The purpose of this repository is to:
 * Track my learning progress and serve as a personal skills reference
 
 
-## Repository Content
+### Repository Content
 
-This repository includes exercises and examples related to:
-### Python Fundamentals
-* Input and output (`input`, `print`)
-* Control flow and logic
-* Script-based problem solving
-**Example files:**
-* `BusinessEmailAccount.py` – Demonstrates how user input can be used to generate a business email account
+#### Business Email Account Generator
+This repository also includes a Python script that demonstrates how a business email
+account can be generated using basic user input.
+The script receives personal information such as name and last name and creates
+a standardized corporate email address based on predefined formatting rules.
+This exercise focuses on:
+- Working with user input
+- String manipulation
+- Basic programming logic
+- Formatting structured outputs
+
+⚠️ This implementation is for **educational purposes only** and represents a simplified
+example of how business email accounts may be created in real-world applications.
+
+#### CURP Generator (Educational)
+In Mexico, the CURP (Clave Única de Registro de Población) is a unique identification code
+assigned to every person living in the country.
+This repository includes a Python script that demonstrates how a CURP can be generated
+programmatically by following its basic structural rules.
+
+⚠️ This implementation is **for educational purposes only** and does not replace
+the official government process.
 
 
-## Technologies Used
+### Technologies Used
 
 * Python 3
 * Terminal / Command Line
 * Git and GitHub
 
 
-## Planned Additions
+### Planned Additions
 
 The repository will continue to grow and include exercises and projects covering:
 
@@ -55,7 +69,7 @@ The repository will continue to grow and include exercises and projects covering
 * Small-scale Data Science projects
 
 
-## Notes
+### Notes
 
 This repository will continue to evolve as I progress in Python and Data Science.
 
